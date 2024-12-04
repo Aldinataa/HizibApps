@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="min_color">#FF000000</color>
+    <color name="scond_color">#FFFFFFFF</color>
+
+    <color name="nwdi">#045B4B</color>
+    <color name="ijo1">#0DAA8B</color>
+    <color name="ijo2">#0E826B</color>
+    <color name="ijo3">#015D4B</color>
+    <color name="ijo4">#0A4E44</color>
+    <color name="splash_color">#06856E</color>
+    <color name="black">#000000</color>
+
+
+</resources>

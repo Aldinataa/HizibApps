@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_membacahizib"
+        android:title="Membaca Hizib" />
+    <item
+        android:id="@+id/nav_audio"
+        android:title="Audio" />
+    <item
+        android:id="@+id/nav_ktpengantar"
+        android:title="Kata Pengantar" />
+    <item
+        android:id="@+id/nav_kaidahmembaca"
+        android:title="Kaidah Membaca" />
+    <item
+        android:id="@+id/nav_about"
+        android:title="Kata Tentang Aplikasi" />
+</menu>
